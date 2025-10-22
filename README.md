@@ -1,6 +1,6 @@
 # 📱 Google Play Reviews Scraper
 
-<img width="1440" height="756" alt="Screenshot 2025-10-22 at 19 43 21" src="https://github.com/user-attachments/assets/dad34ffa-c54a-470d-8c91-f9acfd5b8506" />
+![Screenshot 2025-10-22 at 19 43 21](https://github.com/user-attachments/assets/206659eb-6332-4489-9a26-7311f660c204)
 
 ## Tech Stack
 
