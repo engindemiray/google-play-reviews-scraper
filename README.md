@@ -1,5 +1,3 @@
-# 📱 Google Play Reviews Scraper
-
 ![Screenshot 2025-10-22 at 19 43 21](https://github.com/user-attachments/assets/206659eb-6332-4489-9a26-7311f660c204)
 
 ## Tech Stack
