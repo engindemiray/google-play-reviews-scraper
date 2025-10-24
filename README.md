@@ -25,16 +25,19 @@ Clone the repository:
 $ git clone https://github.com/engindemiray/google-play-reviews-scraper.git
 cd google-play-reviews-scraper
 ```
+
 Create a virtual environment (optional but recommended):
 ``` bash
 $ python3 -m venv venv
 source venv/bin/activate  # Linux / macOS
 venv\Scripts\activate     # Windows
 ```
+
 Install required packages:
 ``` bash
 $ pip3 install -r requirements.txt
 ```
+
 Run the Streamlit app:
 ``` bash
 $ streamlit run comment_scraper_web.py
@@ -45,7 +48,7 @@ You may visit the application on browser with the URL: http://localhost:8501
 ## Architecture
 
 ```
-      User Browser (Client)
+        User Browser (Client)
                  │
                  │ 1. Start Streamlit App
                  ▼
