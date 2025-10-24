@@ -48,10 +48,10 @@ You may visit the application on browser with the URL: http://localhost:8501
 ## Architecture
 
 ```
-        User Browser (Client)
-                 │
-                 │ 1. Start Streamlit App
-                 ▼
+           User Browser (Client)
+                    │
+                    │ 1. Start Streamlit App
+                    ▼
 ┌──────────────────────────────────────────────┐
 │       Streamlit UI (comment_scraper_web.py)  │
 │ ┌──────────────────────────────────────────┐ │
